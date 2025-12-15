@@ -6,3 +6,5 @@ mistral_model/
 qwen_model/
 
 *.csv
+
+all_domain_analysis_optimized/
