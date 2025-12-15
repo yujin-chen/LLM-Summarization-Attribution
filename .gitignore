@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+glm4_model/
+granite_model/
+llama_model/
+mistral_model/
+qwen_model/
+
+*.csv
