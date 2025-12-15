@@ -14,9 +14,6 @@ LLM-Summarization-Attribution/
 ├── train_model.ipynb            # Main training notebook
 ├── auto_finetune_model_train.ipynb # Hyperparameter tuning
 ├── data_analysis.ipynb          # Comprehensive analysis
-├── train_combined.csv           # Combined training data
-├── val_combined.csv             # Combined validation data
-└── test_combined.csv            # Combined test data
 ```
 
 
