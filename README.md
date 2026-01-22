@@ -16,5 +16,6 @@ LLM-Summarization-Attribution/
 ├── data_analysis.ipynb          # Comprehensive analysis
 ```
 
+link to dataset: https://huggingface.co/datasets/yujin31/model_generated_summaries
 
 
